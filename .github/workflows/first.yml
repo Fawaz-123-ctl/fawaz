@@ -16,5 +16,7 @@ jobs:
             port: 22
             source: "."
             target: /var/www/html
+            debug: true
+            
 
   
